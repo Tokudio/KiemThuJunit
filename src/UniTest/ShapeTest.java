@@ -104,7 +104,7 @@ public class ShapeTest {
 
 	@AfterEach
 	public void after() {
-		System.out.println("After TC: " + nbTC);
+		System.out.println("After TCCCC: " + nbTC);
 	}
 
 
